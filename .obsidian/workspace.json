@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98a6280ccf882b02",
+        "id": "f93b91fb9664bb04",
         "type": "tabs",
         "children": [
           {
-            "id": "ff962adec2396d9d",
+            "id": "62f54744ab64fc7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "DOC1/the python tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "the python tutorial"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.50312423706055
+    "width": 391.50312423706055
   },
   "right": {
     "id": "9177cd690fc8a1ec",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "DOC1/the python tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for the python tutorial"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "DOC1/the python tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from the python tutorial"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "DOC1/the python tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of the python tutorial"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "DOC1/the python tutorial.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for the python tutorial"
             }
           }
         ]
@@ -208,23 +208,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ff962adec2396d9d",
+  "active": "62f54744ab64fc7c",
   "lastOpenFiles": [
-    "denmendem/aa.md",
     "Home.md",
+    "🗑️/cesspool.md",
+    "PumpkinSpice.md",
+    "DOC1/DOC1.md",
+    "Tags",
+    "DOC1/the python tutorial.md",
+    "DOC1/#day1/Intro.md",
+    "🗑️/IMG_5898.jpg",
+    "denmendem/aa.md",
     "denmendem",
     "denemendmem",
     "denemdenemdenme",
     "Untitled.md",
     "denemedeneme",
-    "cesspool/IMG_5898.jpg",
-    "cesspool",
-    "DOC1/the python tutorial.md",
+    "🗑️",
     "DOC1",
-    "DOC1/#day1/Intro.md",
     "#day1/the python tutorial.md",
     "GORKEM OZGEN/GAME PLAN.md",
     "2026-02-17.md",
@@ -246,14 +251,10 @@
     "DEEP LEARTNING",
     "archive/2026/2026 GOALS.md",
     "archive/CLUBS/SKYSIS/TERMINAL.md",
-    "archive",
     "CLUBS/SKYSIS/skysis.md",
     "archive/CLUBS/SKYSIS/GIT, GITHUB.md",
     "BBG DÖNEM PROJESI.md",
-    "FINALS.md",
-    "Tank.md",
     "image.png",
-    "LECTURES/ISG.md",
     "archive/screenshots etc./Screenshot 2025-12-26 at 18.34.01.png",
     "archive/banners etc./animeayes.png",
     "archive/screenshots etc./Screenshot 2025-12-17 at 22.11.46.png",

@@ -1,9 +1,10 @@
 ---
 banner: cesspool/IMG_5898.jpg
-banner-height: 770
-banner-fade: -100
+banner-height: 670
+banner-fade: -150
 banner-radius: 0
-content-start: 426
+content-start: 351
+sticker: lucide//home
 ---
 
 # GAMEPLAN
