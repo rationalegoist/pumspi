@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "denmendem/aa.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aa"
+              "title": "Home"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "denmendem/aa.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aa"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "denmendem/aa.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aa"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "denmendem/aa.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aa"
+              "title": "Outline of Home"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "denmendem/aa.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for aa"
+              "title": "File properties for Home"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "ff962adec2396d9d",
   "lastOpenFiles": [
-    "Home.md",
     "denmendem/aa.md",
+    "Home.md",
     "denmendem",
     "denemendmem",
     "denemdenemdenme",
