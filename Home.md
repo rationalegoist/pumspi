@@ -5,6 +5,9 @@ banner-fade: -100
 banner-radius: 0
 content-start: 426
 ---
+auto-ctrl-V:
+cd "/Users/rationalegoist/Documents/Vaults/PumpkinSpice"
+git push origin main
 # GAMEPLAN
 
 - [x] 0 CyCon APPLICATION (CV and letter prep) https://cr14.teamdash.com/p/job/36Nv8xE4/cycon-conference-volunteer
