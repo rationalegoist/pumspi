@@ -1,0 +1,14 @@
+{
+  "styles": {
+    "LECTURES/BBG/🏠C programming language.md": {
+      "opacity": 0.5,
+      "backgroundColor": "#8a5cf4"
+    },
+    "LECTURES/BBG/C programming language.md": {
+      "backgroundColor": "#8a5cf4",
+      "opacity": 0.5
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
