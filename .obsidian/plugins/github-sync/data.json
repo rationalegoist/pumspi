@@ -1,6 +1,6 @@
 {
   "remoteURL": "git@github.com:rationalegoist/pumspi.git",
-  "gitLocation": "",
+  "gitLocation": "/usr/bin/",
   "syncinterval": 0,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true
